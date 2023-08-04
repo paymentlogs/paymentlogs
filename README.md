@@ -20,11 +20,6 @@ I'm a seasoned Full Stack Software Engineer with a strong passion for crafting s
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" />
 </p>
 
-## 💼 Work History
-
-I've had the opportunity to work on a diverse set of projects, from designing and developing web-based social casino platforms to creating comprehensive desktop automation suites. I've also built intuitive desktop toolkits, custom browser extensions, and robust desktop-based account generators. I've collaborated with a wide array of clients, delivering top-notch products across various platforms like Instagram, Slack, Discord, and Twitter.
-
-
 ## 🌱 Interests
 
 I'm interested in JavaScript, Go, Python, AI & ML, Reselling, Web Scraping, and Automation.
