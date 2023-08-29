@@ -30,10 +30,10 @@ When I'm not coding, I enjoy Hiking, Gaming, FL Studio, and more Programming!
 
 ## 📫 How to reach me
 
-Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me on [Twitter](https://twitter.com/paymentlogs).
+Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me on [Twitter](https://twitter.com/voromade).
 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=paymentlogs&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=voromade&show_icons=true)
 
