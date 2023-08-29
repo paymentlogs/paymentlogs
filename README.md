@@ -2,7 +2,7 @@
 
 I'm a seasoned Full Stack Software Engineer with a strong passion for crafting software solutions that are as functional as they are visually appealing. My skill set spans both front-end and back-end development, with JavaScript being my primary tool for building versatile applications. 
 
-## 🚀 Skills
+## My Skillset
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -20,11 +20,11 @@ I'm a seasoned Full Stack Software Engineer with a strong passion for crafting s
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" />
 </p>
 
-## 🌱 Interests
+## Interests
 
 I'm interested in JavaScript, Go, Python, AI & ML, Reselling, Web Scraping, and Automation.
 
-## 🎯 Hobbies
+## Hobbies
 
 When I'm not coding, I enjoy Hiking, Gaming, FL Studio, and more Programming!
 
