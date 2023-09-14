@@ -16,12 +16,8 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" />
 </p>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=voromade&show_icons=true&theme=chartreuse-dark)
+
 ## 📫 How to reach me
 
 Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me @ [Twitter](https://twitter.com/voromade).
-
-
-## 📈 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=voromade&show_icons=true&theme=chartreuse-dark)
-
