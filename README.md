@@ -9,9 +9,6 @@
   <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" />
 </p>
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&theme=chartreuse-dark&show_icons=true)
