@@ -1,5 +1,3 @@
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&theme=chartreuse-dark&show_icons=true)
-
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
@@ -15,6 +13,8 @@
   <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" />
 </p>
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&theme=chartreuse-dark&show_icons=true)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=voromade&show_icons=true&theme=chartreuse-dark)
 
