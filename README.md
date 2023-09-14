@@ -1,7 +1,5 @@
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&theme=chartreuse-dark&show_icons=true)
 
-## My Skillset
-
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
