@@ -1,6 +1,4 @@
-# Hello, World! 👋
-
-I'm a seasoned Full Stack Software Engineer with a strong passion for crafting software solutions that are as functional as they are visually appealing. My skill set spans both front-end and back-end development, with JavaScript being my primary tool for building versatile applications. 
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&theme=chartreuse-dark&show_icons=true)
 
 ## My Skillset
 
@@ -20,20 +18,12 @@ I'm a seasoned Full Stack Software Engineer with a strong passion for crafting s
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" />
 </p>
 
-## Interests
-
-I'm interested in JavaScript, Go, Python, AI & ML, Reselling, Web Scraping, and Automation.
-
-## Hobbies
-
-When I'm not coding, I enjoy Hiking, Gaming, FL Studio, and more Programming!
-
 ## 📫 How to reach me
 
-Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me on [Twitter](https://twitter.com/voromade).
+Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me @ [Twitter](https://twitter.com/voromade).
 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=voromade&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=voromade&show_icons=true&theme=chartreuse-dark)
 
