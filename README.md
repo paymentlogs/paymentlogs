@@ -15,7 +15,7 @@
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me @ [X](https://twitter.com/voromade).
+Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me on [X](https://twitter.com/voromade).
 
 
 
