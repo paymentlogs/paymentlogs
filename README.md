@@ -1,5 +1,3 @@
-<img align="center" src="https://media.discordapp.net/attachments/1133317136673165312/1140607626862923776/Artboard_1Discord_Footer.png?width=777&height=102" />
-
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -18,3 +16,7 @@
 ## 📫 How to reach me
 
 Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me @ [X](https://twitter.com/voromade).
+
+
+
+<img align="center" src="https://media.discordapp.net/attachments/1133317136673165312/1140607626862923776/Artboard_1Discord_Footer.png?width=777&height=102" />
