@@ -13,7 +13,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voromade&theme=merko&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
 
-## 📫 How to reach me
+## 📫 How to Reach Me
 
 Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me @ [X](https://twitter.com/voromade).
 
