@@ -14,7 +14,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=voromade&theme=github-dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&layout=compact&theme=onedark)](https://github.com/voromade/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&layout=compact&theme=onedark&text_color=ffffff)](https://github.com/voromade/github-readme-stats)
 
 ## 📫 How to Reach Me
 
