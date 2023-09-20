@@ -14,6 +14,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=voromade&theme=github-dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&layout=compact)](https://github.com/voromade/github-readme-stats)
+
 ## 📫 How to Reach Me
 
 Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me on [X](https://twitter.com/voromade).
