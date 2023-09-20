@@ -11,7 +11,7 @@
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express" />
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voromade&theme=merko&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=voromade&theme=github-dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 📫 How to Reach Me
 
