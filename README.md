@@ -16,8 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e)](https://github.com/voromade/github-readme-stats)
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=voromade)](https://github.com/voromade/github-readme-stats)
-
 ## 📫 How to Reach Me
 
 Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me on [X](https://twitter.com/voromade).
