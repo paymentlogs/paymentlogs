@@ -18,7 +18,7 @@ Hey there! I'm [voromade](https://devante.dev), a seasoned Full Stack Software E
 
 __Gaming Edge__: Crafting Call of Duty Mod Menus for my JTAG from 2014 to 2018.
 
-__Reselling__: Automating the purchase of limited-edition sneakers and goods for profitable reselling.
+__Reselling__: Automating the purchase of limited-edition sneakers and goods for profitable reselling. (2015-Current)
 
 I thrive on leveraging code to gain a competitive edge, whether it's in gaming, retail, or any other domain.
 
