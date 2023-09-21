@@ -30,7 +30,7 @@ Feel free to reach out to me for any opportunities, collaborations, or just for 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e)](https://github.com/voromade/github-readme-stats)
 
-[![Voro wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=voromade&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e&range=last_year)](https://github.com/anuraghazra/github-readme-stats)
+[![Voro wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=voromade&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e&range=last_30_days)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
