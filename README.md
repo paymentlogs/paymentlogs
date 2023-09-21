@@ -13,14 +13,22 @@
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express" />
 </p>
 
+## 👋 About Me
+Hey there! I'm voromade, a seasoned Full Stack Software Engineer hailing from Connecticut, USA. With over 7 years in the game, my journey into the world of software engineering kicked off with two distinct goals:
+
+__Gaming Edge__: Crafting Call of Duty Mod Menus for my JTAG from 2014 to 2018.
+__Retail Arbitrage__: Automating the purchase of limited-edition sneakers and goods for profitable reselling.
+I thrive on leveraging code to gain a competitive edge, whether it's in gaming, retail, or any other domain.
+
+## 📣 Let's Connect!
+
+Feel free to reach out to me for any opportunities, collaborations, or just for a chat. You can find me on [X](https://x.com/voromade).
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=voromade&theme=github-dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e)](https://github.com/voromade/github-readme-stats)
 
-## 📫 How to Reach Me
-
-Feel free to reach out to me for any exciting opportunities, collaborations, or just for a chat. You can find me on [X](https://twitter.com/voromade).
+[![Voro wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=voromade)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
