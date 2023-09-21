@@ -17,6 +17,7 @@
 Hey there! I'm [voromade](https://devante.dev), a seasoned Full Stack Software Engineer hailing from Connecticut, USA. With over 7 years in the game, my journey into the world of software engineering kicked off with two distinct goals:
 
 __Gaming Edge__: Crafting Call of Duty Mod Menus for my JTAG from 2014 to 2018.
+
 __Retail Arbitrage__: Automating the purchase of limited-edition sneakers and goods for profitable reselling.
 I thrive on leveraging code to gain a competitive edge, whether it's in gaming, retail, or any other domain.
 
