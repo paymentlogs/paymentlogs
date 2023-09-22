@@ -22,6 +22,17 @@ __Reselling__: Automating the purchase of limited-edition sneakers and goods for
 
 I thrive on leveraging code to gain a competitive edge, whether it's in gaming, retail, or any other domain.
 
+## 🛠 Skills & Tools
+- **Languages**: JavaScript (Expert), HTML (Expert), CSS (Expert), Python (Intermediate), Go (Intermediate), C++ (Intermediate)
+- **Frameworks**: React, Node.js, Express, Vue.js, Socket.io, Django
+- **Tools**: Git, Docker, Kubernetes, AWS (EC2/S3)
+- **Database**: MongoDB /// NoSQL
+- **Other Skills**: RESTful API design, Microservices Architecture, Websockets, AI
+
+
+## 🌟 Highlighted Projects
+Coming soon...
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=voromade&theme=github-dark&border_radius=6&mode=daily)](https://git.io/streak-stats)
 
