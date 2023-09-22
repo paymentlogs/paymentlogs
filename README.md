@@ -1,16 +1,16 @@
 [![wakatime](https://wakatime.com/badge/user/6cc5e79b-d43f-456f-8991-5f21bc14998e.svg)](https://wakatime.com/@6cc5e79b-d43f-456f-8991-5f21bc14998e)
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=0eff8e" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js&logoColor=0eff8e" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=0eff8e" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&logoColor=0eff8e" />
   <img alt="C++" src="https://img.shields.io/badge/C++-black?style=flat-square&logo=C%2B%2B&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=0eff8e" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
-  <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=0eff8e" />
+  <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=0eff8e" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=0eff8e" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=0eff8e" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=0eff8e" />
 </p>
 
 ## 👋 About Me
