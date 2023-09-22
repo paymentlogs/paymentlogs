@@ -25,7 +25,7 @@ I thrive on leveraging code to gain a competitive edge, whether it's in gaming, 
 
 ## 🛠 Skills & Tools
 - **Languages**: JavaScript (Expert), HTML (Expert), CSS (Expert), Python (Intermediate), Go (Intermediate), C++ (Intermediate)
-- **Frameworks**: React, Node.js, Express, Vue.js, Socket.io, Django
+- **Frameworks**: React, React Native, Node.js, Express, Vue.js, Socket.io, Django
 - **Tools**: Git, Docker, Kubernetes, AWS (EC2/S3)
 - **Database**: MongoDB /// NoSQL
 - **Other Skills**: RESTful API design, Application Infrastructure, Microservices Architecture, Websockets, AI
