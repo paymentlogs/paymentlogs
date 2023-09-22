@@ -32,8 +32,19 @@ I thrive on leveraging code to gain a competitive edge, whether it's in gaming, 
 
 
 ## 🌟 Highlighted Projects
-Coming soon...
-
+### [Zeus AI](https://askzeus.gg)
+- **Tech Stack**: React, Node.js, Express.js, MongoDB (MERN)
+- **Description**: A real-time chat application with user authentication.
+- **Key Features**:
+  - Real-time messaging with my AI chatbot
+  - OAuth2.0 Authentication (Apple & Google)
+  - Responsive design
+  - Mobile App
+  - Web App
+  - Sleek Interface
+  - Custom GPT Models (3.5-turbo & 4)
+ 
+More public projects coming soon...
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=voromade&theme=github-dark&border_radius=6&mode=daily)](https://git.io/streak-stats)
