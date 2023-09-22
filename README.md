@@ -5,7 +5,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go" />
   <img alt="C++" src="https://img.shields.io/badge/C++-black?style=flat-square&logo=C%2B%2B&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=0eff8e" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
   <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js" />
