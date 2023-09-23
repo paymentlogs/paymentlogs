@@ -1,5 +1,4 @@
 [![wakatime](https://wakatime.com/badge/user/6cc5e79b-d43f-456f-8991-5f21bc14998e.svg)](https://wakatime.com/@6cc5e79b-d43f-456f-8991-5f21bc14998e)
-[![](https://github.com/voromade/my_github_profile_views_counter/blob/master/svg/profile/badge.svg)](https://github.com/formidablae/my_github_profile_views_counter)
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=0eff8e" />
