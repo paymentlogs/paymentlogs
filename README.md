@@ -1,5 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/6cc5e79b-d43f-456f-8991-5f21bc14998e.svg)](https://wakatime.com/@6cc5e79b-d43f-456f-8991-5f21bc14998e)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=voromade.voromade&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=voromade)
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=0eff8e" />
