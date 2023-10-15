@@ -14,6 +14,8 @@
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=0eff8e" />
 </p>
 
+<img align="center" src="https://media.discordapp.net/attachments/1133317136673165312/1140607626862923776/Artboard_1Discord_Footer.png?width=777&height=102" />
+
 ## 👋 About Me
 Hey there! I'm [voromade](https://devante.dev), a seasoned Full Stack Software Engineer from Connecticut, USA. With over 7 years in the game, my journey into the world of software engineering kicked off with two distinct goals:
 
@@ -57,6 +59,3 @@ Feel free to reach out to me for any opportunities, collaborations, or just for 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e)](https://github.com/voromade/github-readme-stats)
 
 [![Voro wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=voromade&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e&range=last_30_days)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img align="center" src="https://media.discordapp.net/attachments/1133317136673165312/1140607626862923776/Artboard_1Discord_Footer.png?width=777&height=102" />
