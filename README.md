@@ -47,7 +47,7 @@ I thrive on leveraging code to gain a competitive edge, whether it's in gaming, 
   - Sleek Interface
   - Custom GPT Models (3.5-turbo & 4)
  
-More public projects coming soon...
+More public projects coming soon....
 
 
 ## 📣 Let's Connect!
