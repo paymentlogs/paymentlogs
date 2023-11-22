@@ -35,18 +35,12 @@ I thrive on leveraging code to gain a competitive edge, whether it's in gaming, 
 
 
 ## 🌟 Highlighted Projects
-### [Voro Panel](https://voro.pro)
+### [Voro Freebies](https://voro.pro)
 - **Tech Stack**: React, Node.js, Express.js, MongoDB (MERN)
 - **Description**: A digital web panel offering hundreds of unique digital services to help you profit from the internet.
 - **Key Features**:
   - Amazon Freebies Dashboard
-  - Shopify Dashboard
-  - Influencer Dashboard
-  - Digital Deals Dashboard
-  - Twitter Automation Dashboard
-  - Marketplace Listing Booster Dashboard
-  - Mobile Friendly
-  - Sleek Interface
+  - Auto purchases price errors / major deals
 
 
 ### [Zeus AI](https://askzeus.gg)
