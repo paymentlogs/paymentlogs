@@ -35,25 +35,23 @@ I thrive on leveraging code to gain a competitive edge, whether it's in gaming, 
 
 
 ## 🌟 Highlighted Projects
+### [Zeus AI](https://askzeus.gg)
+- **Stack**: React, Node.js, Express.js, MongoDB, React Native
+- **Description**: Enhancing AirBNB Guest Experience with AI
+- **Key Features**:
+  - Real-time messaging with a custom trained AI chatbot
+  - OAuth2.0 Authentication (Apple & Google)
+  - Mobile App Companion
+  - Web App
+  - Sleek UI / UX
+  - Ability to custom train your GPT Models (3.5-turbo, 4, 4-turbo)
+
 ### [Voro Freebies](https://voro.pro)
-- **Tech Stack**: React, Node.js, Express.js, MongoDB (MERN)
-- **Description**: A digital web panel offering hundreds of unique digital services to help you profit from the internet.
+- **Stack**: React, Node.js, Express.js, MongoDB (MERN)
+- **Description**: A web based Amazon Freebies Bot
 - **Key Features**:
   - Amazon Freebies Dashboard
-  - Auto purchases price errors / major deals
-
-
-### [Zeus AI](https://askzeus.gg)
-- **Tech Stack**: React, Node.js, Express.js, MongoDB (MERN)
-- **Description**: A real-time chat application with user authentication.
-- **Key Features**:
-  - Real-time messaging with my AI chatbot
-  - OAuth2.0 Authentication (Apple & Google)
-  - Responsive design
-  - Mobile App
-  - Web App
-  - Sleek Interface
-  - Custom GPT Models (3.5-turbo & 4)
+  - Auto purchases price errors / major deals / free products
  
 More public projects coming soon....
 
