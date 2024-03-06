@@ -14,7 +14,7 @@
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=0eff8e" />
 </p>
 
-<img align="center" src="https://media.discordapp.net/attachments/1187784554338058323/1196501287978672250/banner.png?ex=65b7dba8&is=65a566a8&hm=e4b5859b07afed9f70b71c07c6ea89ac74c0c86fb3d8c4f1fe4ecb9b1a339f8c&=&format=webp&quality=lossless&width=777&height=102" />
+<img align="center" src="https://media.discordapp.net/attachments/1187784554338058323/1196501287978672250/banner.png?ex=65f87528&is=65e60028&hm=6ee24bf6e3a7e86b853849b721865b723aad39d31646bcc894f7dd6eb52090ec&=&format=webp&quality=lossless&width=777&height=102" />
 
 ## 👋 About Me
 Hey there! I'm [voromade](https://devante.dev), a seasoned Full Stack Software Engineer from Connecticut, USA. With over 7 years in the game, my journey into the world of software engineering kicked off with two distinct goals:
