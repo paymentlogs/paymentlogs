@@ -36,7 +36,7 @@ I thrive on leveraging code to gain a competitive edge, whether it's in gaming, 
 
 ## 🌟 Highlighted Public Projects
 ### [Zeus AI](https://askzeus.gg)
-- **Stack**: React, Node.js, Express.js, MongoDB, React Native
+- **Stack**: React, Node.js, Express.js, MongoDB, React Native, OpenAI
 - **Description**: Create your own embeddable AI Chatbot, trained on your own data
 - **Key Features**:
   - Real-time messaging with a custom trained AI chatbot
@@ -47,13 +47,15 @@ I thrive on leveraging code to gain a competitive edge, whether it's in gaming, 
   - Ability to custom train your GPT Models (3.5-turbo, 4, 4-turbo)
   - Customizable Landing Pages
 
-### [Voro Freebies](https://voro.pro)
-- **Stack**: React, Node.js, Express.js, MongoDB (MERN)
+### [VORO.](https://voro.pro)
+- **Stack**: React, Node.js, Express.js, MongoDB, Go, Python, OpenAI, Websockets
 - **Description**: A web based, self serve digital services dashboard for all of your needs.
 - **Key Features**:
   - Amazon Freebies: Auto purchases price errors / major deals / free products
   - View Bots (Ebay, Twitch, Kick, Mercari, OfferUp)
   - Account Generators (Shopify, Battlenet, Activision, Outlook)
+  - SMM Panel
+  - Game Cheats
  
 More public projects coming soon....
 
