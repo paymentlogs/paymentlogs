@@ -17,7 +17,7 @@
 <img align="center" src="https://media.discordapp.net/attachments/1187784554338058323/1196501287978672250/banner.png?ex=65f87528&is=65e60028&hm=6ee24bf6e3a7e86b853849b721865b723aad39d31646bcc894f7dd6eb52090ec&=&format=webp&quality=lossless&width=777&height=102" />
 
 ## 👋 About Me
-Hey there! I'm [voromade](https://devante.dev), a seasoned Full Stack Software Engineer from Connecticut, USA. With over 7 years in the game, my journey into the world of software engineering kicked off with two distinct goals:
+Hey there! I'm [voromade](https://devante.dev), a seasoned Fullstack Software Engineer from Connecticut, USA. With over 7 years in the game, my journey into the world of software engineering kicked off with two distinct goals:
 
 __Gaming Edge__: Crafting Call of Duty Mod Menus for my JTAG from 2014 to 2018.
 
