@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/6cc5e79b-d43f-456f-8991-5f21bc14998e.svg)](https://wakatime.com/@6cc5e79b-d43f-456f-8991-5f21bc14998e)
 ![](https://dcbadge.vercel.app/api/shield/332981581792935946?style=flat&compact=true)
 ![](https://komarev.com/ghpvc/?username=voromade&color=green)
-![@voromade](https://img.shields.io/twitter/follow/voromade?style=flat-square&logo=x)
+![@voromade](https://img.shields.io/twitter/follow/voromade)
 ![GitHub followers](https://img.shields.io/github/followers/voromade?style=flat&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/voromade?style=flat&logo=github)
 
