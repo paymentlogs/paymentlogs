@@ -1,5 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/6cc5e79b-d43f-456f-8991-5f21bc14998e.svg)](https://wakatime.com/@6cc5e79b-d43f-456f-8991-5f21bc14998e)
 
+[![](https://komarev.com/ghpvc/?username=voromade&color=green)]
+
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=0eff8e" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js&logoColor=0eff8e" />
@@ -66,3 +68,5 @@ Feel free to reach out to me for any opportunities, collaborations, or just for 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e)](https://github.com/voromade/github-readme-stats)
 
 [![Voro wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=voromade&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e&range=last_30_days)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=voromade&theme=github)](https://github.com/voromade/github-readme-activity-graph)
