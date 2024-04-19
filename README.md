@@ -22,6 +22,8 @@
 
 <!-- <img align="center" src="https://media.discordapp.net/attachments/1187784554338058323/1196501287978672250/banner.png?ex=65f87528&is=65e60028&hm=6ee24bf6e3a7e86b853849b721865b723aad39d31646bcc894f7dd6eb52090ec&=&format=webp&quality=lossless&width=777&height=102" /> -->
 
+![](https://dcbadge.vercel.app/api/shield/332981581792935946?theme=gray&compact=true)
+
 ![@voromade](https://discord-readme-badge.vercel.app/api?id=332981581792935946)
 
 ## 👋 About Me
