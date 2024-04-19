@@ -3,6 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/voromade?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/voromade?style=social)
 ![](https://img.shields.io/twitter/follow/voromade)
+![](https://dcbadge.vercel.app/api/shield/332981581792935946)
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=0eff8e" />
