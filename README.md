@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=voromade&color=green)
 ![](https://img.shields.io/twitter/follow/voromade)
 ![GitHub followers](https://img.shields.io/github/followers/voromade?style=social)
-![GitHub stars](https://img.shields.io/github/stars/voromade?style=flat&logoColor=0eff8e&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/voromade?style=flat&logo=github)
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=0eff8e" />
