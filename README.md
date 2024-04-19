@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=voromade&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/voromade?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/voromade?style=social)
-![](https://dcbadge.vercel.app/api/shield/332981581792935946?style=flat-square)
+![](https://dcbadge.vercel.app/api/shield/332981581792935946?style=flat&compact=true)
 ![](https://img.shields.io/twitter/follow/voromade)
 
 <p>
