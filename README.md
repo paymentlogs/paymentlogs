@@ -1,8 +1,8 @@
 [![wakatime](https://wakatime.com/badge/user/6cc5e79b-d43f-456f-8991-5f21bc14998e.svg)](https://wakatime.com/@6cc5e79b-d43f-456f-8991-5f21bc14998e)
 ![](https://komarev.com/ghpvc/?username=voromade&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/voromade?style=social)
-![GitHub forks](https://img.shields.io/github/forks/voromade?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/voromade?style=social)
+![](https://img.shields.io/twitter/follow/voromade)
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=0eff8e" />
