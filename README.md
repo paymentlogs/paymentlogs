@@ -3,6 +3,7 @@
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=0eff8e" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js&logoColor=0eff8e" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=0eff8e" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=0eff8e" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&logoColor=0eff8e" />
   <img alt="C++" src="https://img.shields.io/badge/C++-black?style=flat-square&logo=C%2B%2B&logoColor=0eff8e" />
@@ -12,32 +13,35 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=0eff8e" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=0eff8e" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=0eff8e" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss&logoColor=0eff8e" />
 </p>
 
 <img align="center" src="https://media.discordapp.net/attachments/1187784554338058323/1196501287978672250/banner.png?ex=65f87528&is=65e60028&hm=6ee24bf6e3a7e86b853849b721865b723aad39d31646bcc894f7dd6eb52090ec&=&format=webp&quality=lossless&width=777&height=102" />
 
 ## 👋 About Me
+
 Hey there! I'm [voromade](https://devante.dev), a seasoned Fullstack Software Engineer from Connecticut, USA. With over 7 years in the game, my journey into the world of software engineering kicked off with two distinct goals:
 
-__Gaming Edge__: Crafting Call of Duty Mod Menus for my JTAG from 2014 to 2018.
+**Gaming Edge**: Crafting Call of Duty Mod Menus for my JTAG from 2014 to 2018.
 
-__Reselling__: Automating the purchase of limited-edition sneakers and goods for profitable reselling. (2015-2023)
+**Reselling**: Automating the purchase of limited-edition sneakers and goods for profitable reselling. (2015-2023)
 
 I thrive on leveraging code to gain a competitive edge, whether it's in gaming, retail, or any other domain.
 
-
 ## 🛠 Skills & Tools
-- **Languages**: JavaScript, HTML, CSS, Python, Go, C++
-- **Frameworks**: React, React Native, Node.js, Express, Vue.js, Socket.io, Django
-- **Tools**: Git, Docker, Kubernetes, AWS (EC2/S3), Postman, Insomnia, Charles Proxy
-- **Database**: MongoDB /// NoSQL
-- **Other Skills**: RESTful API design, Application Infrastructure, Microservices Architecture, Websockets, AI
 
+- **Languages**: JavaScript / Typescript, HTML, CSS, Python, Go, C++
+- **Frameworks**: React, React Native, Node.js, Express, Vue.js, Socket.io, Django, Flask, Next.js, Electron, Vite
+- **Tools**: Git, Docker, Kubernetes, AWS (EC2/S3), Postman, Insomnia, Charles Proxy, Wireshark, Fiddler, Burp Suite, Jira, Trello
+- **Database**: MongoDB, MySQL, PostgreSQL, SQLite, Redis, Firebase, Pinecone, Supabase
+- **Other Skills**: RESTful API design, Application Infrastructure, Microservices Architecture, Websockets, AI / Machine Learning
 
 ## 🌟 Highlighted Public Projects
+
 ### [Zeus AI](https://askzeus.gg)
-- **Stack**: React, Node.js, Express.js, MongoDB, React Native, OpenAI
-- **Description**: Create your own embeddable AI Chatbot, trained on your own data
+
+- **Stack**: React, Node.js, Express.js, MongoDB, React Native, OpenAI (API)
+- **Description**: Create your own customizable, embeddable, AI Chatbot that trained on your own data
 - **Key Features**:
   - Real-time messaging with a custom trained AI chatbot
   - OAuth2.0 Authentication (Apple & Google)
@@ -45,10 +49,13 @@ I thrive on leveraging code to gain a competitive edge, whether it's in gaming, 
   - Web App
   - Sleek UI
   - Ability to custom train your GPT Models (3.5-turbo, 4, 4-turbo)
-  - Customizable Landing Pages
- 
-More public projects coming soon....
+  - Customizable Chatbot
+  - Embed chatbot widget to your website via provided script
+  - Multiple integrations (Discord, Slack, etc)
+  - Utilizes RAG for long-term context
+  * More
 
+More public projects coming soon....
 
 ## 📣 Let's Connect!
 
