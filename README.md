@@ -20,7 +20,7 @@
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss&logoColor=0eff8e" />
 </p>
 
-<img align="center" src="https://media.discordapp.net/attachments/1187784554338058323/1196501287978672250/banner.png?ex=65f87528&is=65e60028&hm=6ee24bf6e3a7e86b853849b721865b723aad39d31646bcc894f7dd6eb52090ec&=&format=webp&quality=lossless&width=777&height=102" />
+<!-- <img align="center" src="https://media.discordapp.net/attachments/1187784554338058323/1196501287978672250/banner.png?ex=65f87528&is=65e60028&hm=6ee24bf6e3a7e86b853849b721865b723aad39d31646bcc894f7dd6eb52090ec&=&format=webp&quality=lossless&width=777&height=102" /> -->
 
 ## 👋 About Me
 
