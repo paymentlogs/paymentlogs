@@ -45,21 +45,22 @@ I thrive on leveraging code to gain a competitive edge, whether it's in gaming, 
 
 ## 🌟 Highlighted Public Projects
 
-### [Zeus AI](https://askzeus.gg)
+### [Stasis AI](https://askzeus.gg)
 
 - **Stack**: React, Node.js, Express.js, MongoDB, React Native, OpenAI (API)
-- **Description**: Create your own customizable, embeddable, AI Chatbot that trained on your own data
+- **Description**: Create your own customizable, embeddable, AI Chatbot that are trained on your own data - Providing your users with long term contextual conversations
 - **Key Features**:
   - Real-time messaging with a custom trained AI chatbot
   - OAuth2.0 Authentication (Apple & Google)
   - Mobile App Companion
   - Web App
   - Sleek UI
-  - Ability to custom train your GPT Models (3.5-turbo, 4, 4-turbo)
+  - Ability to custom train your GPT Models (gpt-3.5-turbo, gpt-4, gpt-4-turbo, gpt-4o)
   - Customizable Chatbot
   - Embed chatbot widget to your website via provided script
-  - Multiple integrations (Discord, Slack, etc)
+  - Multiple integrations (Discord, Slack, AirBNB, etc)
   - Utilizes RAG for long-term context
+  - Train on files, QNA, YouTube videos and more
   * More
 
 More public projects coming soon....
