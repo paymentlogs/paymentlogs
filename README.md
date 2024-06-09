@@ -11,14 +11,12 @@
   <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=0eff8e" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=0eff8e" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&logoColor=0eff8e" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-black?style=flat-square&logo=C%2B%2B&logoColor=0eff8e" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=0eff8e" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=0eff8e" />
   <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=0eff8e" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=0eff8e" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=0eff8e" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=0eff8e" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss&logoColor=0eff8e" />
 </p>
 
 <!-- <img align="center" src="https://media.discordapp.net/attachments/1187784554338058323/1196501287978672250/banner.png?ex=65f87528&is=65e60028&hm=6ee24bf6e3a7e86b853849b721865b723aad39d31646bcc894f7dd6eb52090ec&=&format=webp&quality=lossless&width=777&height=102" /> -->
