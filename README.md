@@ -1,9 +1,9 @@
 [![wakatime](https://wakatime.com/badge/user/6cc5e79b-d43f-456f-8991-5f21bc14998e.svg)](https://wakatime.com/@6cc5e79b-d43f-456f-8991-5f21bc14998e)
 ![](https://dcbadge.vercel.app/api/shield/332981581792935946?style=flat&compact=true)
-![](https://komarev.com/ghpvc/?username=voromade&color=green)
-![@voromade](https://img.shields.io/twitter/follow/voromade)
-![GitHub followers](https://img.shields.io/github/followers/voromade?style=flat&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/voromade?style=flat&logo=github)
+![](https://komarev.com/ghpvc/?username=voroware&color=green)
+![@voroware](https://img.shields.io/twitter/follow/voroware)
+![GitHub followers](https://img.shields.io/github/followers/voroware?style=flat&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/voroware?style=flat&logo=github)
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=0eff8e" />
@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-Hey there! I'm [voromade](https://devante.dev), a seasoned Fullstack Software Engineer from Connecticut, USA. With over 7 years in the game, my journey into the world of software engineering kicked off with two distinct goals:
+Hey there! I'm [Voro](https://devante.dev), a seasoned Fullstack Software Engineer from Connecticut, USA. With over 7 years in the game, my journey into the world of software engineering kicked off with two distinct goals:
 
 **Gaming Edge**: Crafting Call of Duty Mod Menus for my JTAG from 2014 to 2018.
 
@@ -65,10 +65,10 @@ More public projects coming soon....
 
 ## 📣 Let's Connect!
 
-Feel free to reach out to me for any opportunities, collaborations, or just for a chat. You can find me on [X](https://x.com/voromade).
+Feel free to reach out to me for any opportunities, collaborations, or just for a chat. You can find me on [X](https://x.com/voroware).
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=voromade&theme=github-dark&border_radius=6&mode=daily)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=voroware&theme=github-dark&border_radius=6&mode=daily)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voromade&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e)](https://github.com/voromade/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voroware&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e)](https://github.com/voroware/github-readme-stats)
 
-[![Voro wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=voromade&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e&range=last_30_days)](https://github.com/anuraghazra/github-readme-stats)
+[![Voro wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=voroware&layout=compact&theme=onedark&bg_color=000000&text_color=0eff8e&title_color=0eff8e&range=last_30_days)](https://github.com/anuraghazra/github-readme-stats)
