@@ -35,8 +35,8 @@ I thrive on leveraging code to gain a competitive edge, whether it's in gaming, 
 
 ## 🛠 Skills & Tools
 
-- **Languages**: JavaScript / Typescript, HTML, CSS, Python, Go, C++
-- **Frameworks**: React, React Native, Node.js, Express, Vue.js, Socket.io, Django, Flask, Next.js, Electron, Vite
+- **Languages**: Node.js / JavaScript / Typescript, HTML, CSS, Python, Go, C++
+- **Frameworks**: React, React Native, Express, Vue.js, Socket.io, Django, Flask, Next.js, Electron, Vite, Expo Go
 - **Tools**: Git, Docker, Kubernetes, AWS (EC2/S3), Postman, Insomnia, Charles Proxy, Wireshark, Fiddler, Burp Suite, Jira, Trello
 - **Database**: MongoDB, MySQL, PostgreSQL, SQLite, Redis, Firebase, Pinecone, Supabase
 - **Other Skills**: RESTful API design, Application Infrastructure, Microservices Architecture, Websockets, AI / Machine Learning
