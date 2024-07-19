@@ -45,21 +45,22 @@ I thrive on leveraging code to gain a competitive edge, whether it's in gaming, 
 
 ### [Stasis AI](https://askzeus.gg)
 
-- **Stack**: React, Node.js, Express.js, MongoDB, React Native, OpenAI (API)
-- **Description**: Create your own customizable, embeddable, AI Chatbot that are trained on your own data - Providing your users with long term contextual conversations
+- **Stack**: React, Node.js, Express.js, MongoDB, React Native, OpenAI, Groq Cloud, Claude.ai, Google Gemini
+- **Description**: Create your own customizable, embeddable, AI Chatbot that is trained on your own data - Providing your visitors with long term contextual conversations
 - **Key Features**:
-  - Real-time messaging with a custom trained AI chatbot
+  - Real-time messaging with a custom trained AI model
   - OAuth2.0 Authentication (Apple & Google)
   - Mobile App Companion
   - Web App
   - Sleek UI
-  - Ability to custom train your GPT Models (gpt-3.5-turbo, gpt-4, gpt-4-turbo, gpt-4o)
+  - Ability to custom train your GPT Models (gpt-3.5-turbo, gpt-4, gpt-4-turbo, gpt-4o, gpt-4o-mini, claude-3.5-sonnet, Llama3)
   - Customizable Chatbot
-  - Embed chatbot widget to your website via provided script
+  - Embed chatbot widget onto your website via provided script
+  - Create & share dedicated chat pages via a sleek web UI
   - Multiple integrations (Discord, Slack, AirBNB, etc)
   - Utilizes RAG for long-term context
-  - Train on files, QNA, YouTube videos and more
-  * More
+  - Train on raw text, files, Q&A, YouTube videos, audio files, AirBNB listings and more.
+  + More
 
 More public projects coming soon....
 
